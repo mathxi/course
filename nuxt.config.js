@@ -3,7 +3,7 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   server: {
     port:80,
-    host: 'course.devlop.click'
+    host: 'localhost'
   },
   /*
   ** Nuxt rendering mode
